@@ -1,0 +1,5 @@
+twitter.setOAuthConsumer("zCr0zxWPdcDd8OKXnq65JWV3s", "iLoUAifY10Kbe22iLeV805mELn6v5biQuYWPHGa5QESo1qGUNl");
+
+Access token
+212847997-6njkH0uIXyEVSzxxSahX0VugG2yVh7jQuGvc0OQ8
+gGJBXeas01AaryA1oEr9EXFpi9BE8MWwAsKE7EvgSScDV
